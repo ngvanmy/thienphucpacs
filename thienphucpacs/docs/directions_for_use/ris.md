@@ -115,15 +115,11 @@ Tìm kiếm chỉ định theo khoản thời gian (có thể chọn nhanh Hôm 
 
 2. Cập nhật thông tin chỉ định
 
-![](https://imgur.com/fb4IDg4.jpg "Cập nhật thông tin chỉ định")
-
 Kỹ thuật viên thực hiện ca chụp, số lượng film đã in và lỗi cho từng loại film
 
 Trong trường hợp chỉ định chưa được liên kết với ca chụp, kỹ thuật viên có thể chọn danh sách ca chụp được lấy từ hệ thống QNPACS và tiến hành liên kết với chỉ định hiện tại.
 
 Chọn ca chụp cần liên kết:
-
-![](https://imgur.com/p4K1sbQ.jpg "Cập nhật thông tin chỉ định")
 
 Liên kết ca chụp với chỉ định
 
@@ -168,8 +164,6 @@ Bác sĩ có quyền hội chẩn từ xa sẽ tiến hành thêm mới ca hội
 
 Thêm ca hội chẩn
 
-![](https://imgur.com/ZrivXcX.jpg "Thêm ca hội chẩn")
-
 Sau khi thêm mới một ca hội chẩn, thông tin về ca hội chẩn sẽ được hiển thị trong danh sách với các trạng thái:
 
 ![](https://imgur.com/PNP46cC.jpg "Trạng thái hội chẩn")
@@ -178,15 +172,9 @@ Danh sách các ca cần hội chẩn
 
 ![](https://imgur.com/2MJ4X7w.jpg "Danh sách hội chẩn")
 
-Giao diện hội chẩn từ xa trước khi bắt đầu hội chẩn
-
-![](https://imgur.com/r0L7UCZ.jpg "Màn hình trước khi hội chẩn")
-
 Chú ý:
 
 ![](https://imgur.com/ouztsMp.jpg "Chú ý")
 
-Màn hình làm việc khi hội chẩn
 
-![](https://imgur.com/e0YJNVZ.jpg "Màn hình hội chẩn")
 
