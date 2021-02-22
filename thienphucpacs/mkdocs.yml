@@ -1,0 +1,18 @@
+site_name: THIENPHUC PACS
+nav:
+    - Giới thiệu: index.md
+
+    - Hướng dẩn sử dụng:
+        - Phân hệ RIS: directions_for_use/ris.md
+        - Phân hệ Workstation: directions_for_use/workstation.md
+        - Phân hệ WebViewer: directions_for_use/webviewer.md       
+
+theme: readthedocs
+use_directory_urls: true
+site_url: null
+repo_url: null
+repo_name: 'Sinh'
+extra_css: [custom/extra.css]
+formats:
+  - epub
+  - pdf
